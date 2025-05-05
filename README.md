@@ -108,21 +108,21 @@ Acesse via navegador em: http://<ip-do-raspberry>:8000
 srvllm/
 
 ├── app/
-
-│   ├── cli.py
-
+│
+│ ──├── cli.py
+│   │
 │   ├── main.py
-
+│   │
 │   └── templates/
-
+│   
 ├── model/
-
+│   │
 │   └── mistral-7b-instruct-v0.1.Q4_K_M.gguf
-
+│   
 ├── llama.cpp/
-
+│   
 ├── start.sh
-
+│   
 └── README.md
 
 
